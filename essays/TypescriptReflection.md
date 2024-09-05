@@ -11,7 +11,7 @@ labels:
   - TypeScript
 ---
 
-image: img/TS_JS.jpg
+<img width="300px" class="rounded float-start pe-4" src="../img/TS_JS.jpg">
 
 ## A new language
 
