@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Bank_Photo.jfif
+image: img/Bank_Photo.png
 title: "Bank Database Application"
 date: 2023
 published: true
