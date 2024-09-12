@@ -1,25 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "SMART Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-09-11
 published: true
 labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/smartQs.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Asking Questions*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+Questions come in all shapes and sizes, but it is important to ask meaningful questions that reflect exactly what you want answered. An example of a bad question is "Can you fix my code?", followed by a screenshot. Yes, it's doable, but why would you make someone analyze your picture, going over each line themselves, instead of making it as easy as possible for the person going out of their way to help you. You can try to narrow down the issues, ask for clarification on a specific syntax issue, or direct them to a single line of code. The more specificity, the easier it is for the person reading your question to answer thoughtfully and to answer your original question.
 
 ## In the context of programming
 
