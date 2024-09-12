@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Bank_Photo.jfif
 title: "Bank Database Application"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "Banking database application that could be used to add, delete, and find records inputted into the database"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/User_Data.svg">
 
 
 
@@ -24,6 +24,6 @@ This program was initially done in C, then redone with C++ syntax, and finally u
 
 Here are some functions from the original C iteration of the application
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/addRecord_Ravi.png">
+<img class="img-fluid" src="../img/writeFile_Ravi.png">
+<img class="img-fluid" src="../img/readFile_Ravi.png">
