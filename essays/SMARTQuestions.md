@@ -10,6 +10,13 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/smartQs.jpg">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Asking Questions
 
