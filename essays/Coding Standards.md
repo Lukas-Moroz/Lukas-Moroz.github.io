@@ -17,8 +17,8 @@ I had some experience with VSCode prior to this course but I was following a ver
 
 ## I Love ESLint
 
-
+I was introduced to ESLint style guide in my ICS 212: Program Structures class. I would have to run a script directly in shell that would look at my C code and return 100s of errors. Whitespace there, delete it, extra spaces, delete those, bad indenting, I will never click tab again. Although it was tedious running the script over and over again until I had no coding style errors, it made my code legible. Function indenting easily shows you the scope of variable and other features in different curly braces({}). In VSCode, you don't even need t run a script, you can use an extension that treats coding style issues as errors, rewiring your brain to write goode, legible code. Having proper coding style will hopefully make it easier for others to look at my code and dissect it.
 
 ## Closing Statement
 
-
+Although it can be annoying at first, ESLint is agreat coding style guide that helps you better understand what all your code does and organizes everything into very legible lines. VSCode has treated my well and I see its potential as I start toi use more and more of its features. I look forward to continue using ESLint and VSCode to write, clean code in a very functional IDE.
