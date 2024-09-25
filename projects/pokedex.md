@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pokedex.png
+image: img/Pokedex/pokedex.png
 title: "Pokedex"
 date: 2023
 published: true
@@ -15,6 +15,6 @@ The "Pokedex" project is a simple C program I developed during my sophomore year
 
 Although not particularly complex, this project was an important milestone in my coding journey. It helped me develop practical skills in programming logic, data management, and user interaction—essential building blocks for more advanced projects. Completing this assignment boosted my confidence and proficiency in C programming.
 
-<img width="200px" src="../img/pokedexMain.png" >
-<img width="200px" src="../img/pokedexPokemon.png" >
-<img width="200px" src="../img/pokedexConstructor.png" >
+<img width="200px" src="../img/Pokedex/pokedexMain.png" >
+<img width="200px" src="../img/Pokedex/pokedexPokemon.png" >
+<img width="200px" src="../img/Pokedex/pokedexConstructor.png" >
