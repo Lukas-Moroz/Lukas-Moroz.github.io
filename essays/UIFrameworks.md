@@ -1,4 +1,4 @@
----
+v---
 layout: essay
 type: essay
 title: "UI Frameworks"
@@ -11,7 +11,7 @@ labels:
   - Bootstrap
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/">
+<img width="200px" class="rounded float-start pe-4" src="../img/Bootstrap_(front-end_framework)-Logo.wine.png">
 
 <br/>
 <br/>
