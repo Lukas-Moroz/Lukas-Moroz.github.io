@@ -11,8 +11,8 @@ labels:
   - Bootstrap
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/VSCodeEssay/VSCode.jpeg">
-<img width="200px" class="rounded float-start pe-4" src="../img/VSCodeEssay/PrettierESLint.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/">
+
 <br/>
 <br/>
 <br/>
