@@ -1,34 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks"
+title: "Building Lego Sets From Memory. My Experience with Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2024-10-09
+date: 2024-12-4
 published: true
 labels:
-  - Html
-  - Css
-  - Bootstrap
+  - Design Patterns
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Bootstrap_(front-end_framework)-Logo.wine.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+## Building Lego Sets From Memory. My Experience with Design Patterns
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-## HTML and CSS
-
-I am still a rookie to web dev but I enjoyed HTML and the basics of CSS. I like how it's split up into different languages that work off eachother for format and style but that dose lead to some confusions when working in one or the other. I found myself getting lost with the HTML syntax since everything, even classes in CSS are placed in them when referring to them in HTML. I hate aligning thing but everything else seemed to make sense. Overall, I enjoyed learning the basics of HTML and CSS.
-
-## Bootstrap
-
-Splitting HTML and CSS was fun, but the jump to Bootstrap was really hard. It doesn't seem hard but if you are thrown as much random, bootstrap specific syntax, all at once, it becomes tedious and hard to follow. I fell really far behind and everything became hard to follow becuase the bootstrap syntax and the fact that most is done in HTML with very minimal CSS. I thought the icons and some stuff mae it more easy, but I was not experienced enough in HTML or CSS alone that I shouldv'e needed to jump to a new framework like bootstrap.
-
-## Closing Statement
-
-I liked HTML and CSS but hated Bootstrap. I think that if I had more practice with all the concepts in all the categories, I wouldve enjoyed that more. The class that I'm in is too fast paced and I have to learn more on my own than in class, which makes it hard to juggle with other responsibilities. Overall I liked it, but wish we had more time to fully understand instead of getting told we aren't moving fast enough.
+I love building Lego sets as a child. Star Wars, Harry Potter, Lord of the Rings, you name it. My mom would help organize the pieces while I would hastily dig through the loose, unsorted pieces trying to build the set as fast as possible. Building Lego sets over and over again builds a sort of repetition, you build houses that same, and trees become easier to complete. At some point, I noticed that I would be able to complete steps accurately without even needing to look at every individual instruction. But the real fun came after breaking down the sets. With no instructions, I had the freedom to create large towers, and giant cities, and set up large scenes to replicate battles or movie scenes creating endless possibilities. I would catch myself remembering long strings of different steps from different steps making the build process for each unique structure I make similar to the original. It made it look more complete, more like a full set. 
+  As I grew up and phased out of Legos, I saw these patterns emerging in something new, coding. I would be able to write basic functions and lines of important syntax straight from memory. Writing loops and incrementing variables became second nature, much like building Lego houses. Debugging and compiling, especially in C during ICS 212, felt like solving familiar puzzles. By identifying reusable patterns in both syntax and logic, I could focus on mastering more complex concepts.
+	What started as a childhood hobby gave me a foundational understanding of design. Whether I’m building with Lego bricks or code, recognizing and applying patterns transforms the process into something efficient and deeply rewarding.
