@@ -44,9 +44,9 @@ I would use Copilot and ChatGPT to explain why certain lines of code had red squ
 ## 14. Other uses in ICS 314 not listed
 I basically used it as a coder in dire situations, a replacement for forum-based website explanations, and a spell checker/grammar/thesaurus helper. I did not want to rely on AI as heavily as I did but I fell behind in the middle of the semester and had trouble catching up.
 
-##So...is it good?
+## So...is it good?
 For me, the answer is yes, kind of. I do think that it is a great tool and can help a majority of people easily break down ideas and do basic coding and such. But it can be so easily used to break academic integrity and replace fundamental human processes like problem-solving. If you can use AI responsibly and without blatantly using it to cheat, it's great. That line is incredibly fine and must not be overstepped. For learning, it is an amazing tool that can help anyone answer personalized questions and removes the stigma of asking "stupid" questions in lectures. By having AI that can be used privately, you can ask it for answers to hyperspecific problems with decent accuracy or at least a blueprint on where to look further for your answer. For the future, I think it is important to better train AI models to suit what it is being used for. For education, especially in computer science, you can remove AIs' ability to code and just make it explain topics. It would also be helpful to jam it with key books and materials related to computer science, like Introduction to Algorithms by Cormen, et al.
-##A Summary
+## A Summary
 AI can be a great tool if utilized correctly. Use it as an assistant rather than a replacement. You as the user have to put in a majority of the work, problem-solving skills, and decision-making to fully understand what the AI is helping you with. Let it replace typing tedious boilerplates or essay structures, but don't let it replace the thought process and human quarks.
 
 
