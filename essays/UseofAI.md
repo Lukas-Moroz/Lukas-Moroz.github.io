@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Use of AI for coding and other variou applications"
+title: "Use of AI for coding and other various applications"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: true
