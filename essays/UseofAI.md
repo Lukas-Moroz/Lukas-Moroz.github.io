@@ -10,14 +10,6 @@ labels:
   - Ethics
   - Academic Integrity
 ---
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -47,7 +39,7 @@ Helped me understand that jumps from framework to framework as a lot of it had s
 This was only done on timed WODs because I needed the grade during the final project for areas like Prisma and db manipulation. I would usually ask for the solution and then work backward.
 ## 12. Documenting code
 AI usually automatically puts comments so that is handy when looking through large files. I never used it directly to add comments because I think a decent amount of coding that we did was copy pasted from other assignments just changing the wording. The fact that not a lot of people were looking at my code also meant to me that I could be a little bit more lenient with the commenting that I do.
-## 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+## 13. Quality assurance e.g. “What’s wrong with this code xxx” or “Fix the ESLint errors in xxx”
 I would use Copilot and ChatGPT to explain why certain lines of code had red squiggly lines under them and it would usually provide a bad solution because it only has the context of either the line or file that it is in. This proved super difficult in the final project as so many features used codes and functions from other finals that it's hard to track where everything in one file is originally from.
 ## 14. Other uses in ICS 314 not listed
 I basically used it as a coder in dire situations, a replacement for forum-based website explanations, and a spell checker/grammar/thesaurus helper. I did not want to rely on AI as heavily as I did but I fell behind in the middle of the semester and had trouble catching up.
