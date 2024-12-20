@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BankingDatabase/Bank_Photo.png
+image: img/StudyBuddy.png
 title: "UHM Study Buddy"
 date: 2024
 published: true
